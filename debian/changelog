@@ -1,3 +1,9 @@
+com.deepin.gomoku (6.0.7gxde1) UNRELEASED; urgency=medium
+
+  * 修复棋盘不全的问题
+
+ -- gfdgd_xi <3025613752@qq.com>  Sun, 07 Sep 2025 16:52:36 +0800
+
 com.deepin.gomoku (6.0.7) unstable; urgency=medium
 
   * feat: Update translations for Lao locale (#35)
